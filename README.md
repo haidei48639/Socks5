@@ -19,8 +19,6 @@
 - 自动修改防火墙规则
 - 输入 s5 即可启动控制面板
 
-## 一键安装或更新到最新 ##
- <pre><code>wget -q -N --no-check-certificate https://xxraw.githubusercontent.com/wyx176/Socks5/master/install.sh && bash install.sh</code></pre>
 
 ## 相关文件路径 ##
 - 1.端口文件<br>
@@ -66,5 +64,4 @@ CentOS-6.4-x86_64<br>
 CentOS-6.4-86<br>
 centos-6.9-x86_64<br>
 
-## 写在最后 ##
-Telegram交流群:https://t.me/Socks55555
+
